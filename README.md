@@ -6,5 +6,5 @@
 ![Desktop-ice-hockey](./img/ice.png)<br>
 试玩链接：[yukiball.github.io/Desktop-ice-hockey/dtp.html](https://yukiball.github.io/Desktop-ice-hockey/dtp.html)
 - ## 德邦物流
-![Desktop-ice-hockey](./img/ice.png)<br>
+![Desktop-ice-hockey](./img/depong.png)<br>
 试玩链接：[yukiball.github.io/new-deppon/fast.html](https://yukiball.github.io/new-deppon/fast.html)
