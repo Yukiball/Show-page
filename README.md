@@ -13,5 +13,7 @@
 #### git链接：[github.com/Yukiball/2048](https://github.com/Yukiball/new-deppon)
 - ## vue圆环菜单栏
 ![list](./img/list.png)<br>
-#### 展示链接：[yukiball.github.io/vuemenu/dist/](https://yukiball.github.io/vuemenu/dist/)
+#### 展示链接：[yukiball.github.io/vuemenu/dist/](https://yukiball.github.io/vuemenu/dist/)<br>
+手机端展示扫这里~<br>
+![vuelist](./img/vuelist.png)<br>
 #### git链接：[github.com/Yukiball/2048](https://github.com/Yukiball/vuemenu)
