@@ -1,13 +1,17 @@
 # 个人项目展示页面
 - ## 2048
 ![2048](./img/2048.png)<br>
-试玩链接：[yukiball.github.io/2048/2048.html](https://yukiball.github.io/2048/2048.html)
+#### 试玩链接：[yukiball.github.io/2048/2048.html](https://yukiball.github.io/2048/2048.html)
+#### git链接：[github.com/Yukiball/2048](https://github.com/Yukiball/2048)
 - ## 桌上冰球
 ![Desktop-ice-hockey](./img/ice.png)<br>
-试玩链接：[yukiball.github.io/Desktop-ice-hockey/dtp.html](https://yukiball.github.io/Desktop-ice-hockey/dtp.html)
+#### 试玩链接：[yukiball.github.io/Desktop-ice-hockey/dtp.html](https://yukiball.github.io/Desktop-ice-hockey/dtp.html)
+#### git链接：[github.com/Yukiball/2048](https://github.com/Yukiball/Desktop-ice-hockey)
 - ## 德邦物流
 ![deppon](./img/depong.png)<br>
-试玩链接：[yukiball.github.io/new-deppon/fast.html](https://yukiball.github.io/new-deppon/fast.html)
+#### 展示链接：[yukiball.github.io/new-deppon/fast.html](https://yukiball.github.io/new-deppon/fast.html)
+#### git链接：[github.com/Yukiball/2048](https://github.com/Yukiball/new-deppon)
 - ## vue圆环菜单栏
 ![list](./img/list.png)<br>
-展示链接：[yukiball.github.io/vuemenu/dist/](https://yukiball.github.io/vuemenu/dist/)
+#### 展示链接：[yukiball.github.io/vuemenu/dist/](https://yukiball.github.io/vuemenu/dist/)
+#### git链接：[github.com/Yukiball/2048](https://github.com/Yukiball/vuemenu)
