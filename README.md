@@ -1,4 +1,7 @@
 # 个人项目展示页面
+- ## 电子欠条小程序
+![dzqt](./img/dzqt.jpg)<br>
+#### 试玩链接：请扫码体验~
 - ## h5-2048
 ![2048](./img/2048.png)<br>
 #### 试玩链接：[yukiball.github.io/2048/2048.html](https://yukiball.github.io/2048/2048.html)
